@@ -1,0 +1,43 @@
+.title{
+    text-align: center;
+    margin-top: 2%;
+
+}
+.box1{
+    margin-top: 2%;
+    width: 49%;
+    display:block;
+    text-align: center;
+    float: left;
+}
+.box2{
+    margin-top: 2%;
+    width: 49%;
+    display: block;
+    text-align: center;
+    float: right;
+}
+.form1 input{
+    margin: 2%;
+    display: inline-block;
+    text-align: center;
+
+}
+.form1 label{
+    display: block;
+}
+.form2 label{
+    display: block;
+}
+.form2 input{
+    margin: 2%;
+    display: inline-block;
+
+}
+.form2{
+    margin-top: 7%;
+}
+.btn:hover{
+    background-color: gray;
+}
+
